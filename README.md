@@ -1,4 +1,8 @@
-<h2>Bem vindos ao meu perfil, eu sou a Kethelen ✨</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=30&duration=3000&pause=2000&color=FF91A4&width=435&lines=Meu+nome+%C3%A9+Kethelen+Vieira;Tenho+19+anos;Sou+Estudante+de++Front-end" alt="Typing SVG" /></a></div>
+
+
+
 <div align="center">
   <a href="https://github.com/Kethelenvieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kethelenvieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,3 +22,5 @@
 <div> 
   <a href = "mailto: Kethelenrodriguesvieira@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/kethelen-rodrigues-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
