@@ -4,7 +4,7 @@
 <!-- Texto animado -->
 <div align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=30&duration=3000&pause=2000&color=FF91A4&width=435&lines=Meu+nome+%C3%A9+Kethelen+Vieira;Tenho+20+anos;Sou+Estudante+de++Front-end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=30&duration=3000&pause=2000&color=FF91A4&width=435&lines=Meu+nome+%C3%A9+Kethelen+Vieira;Tenho+22+anos;Sou+Product+Designer+UX/UI+e+Estudante+de++Front-end" alt="Typing SVG" />
   </a>
 </div>
 
